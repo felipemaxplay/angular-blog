@@ -1,11 +1,11 @@
+.container_menu-title {
+  margin: 1rem 2rem;
+}
+
 .container_menu-title h1 {
   padding: .5rem;
   font-size: 4rem;
   font-weight: bold;
   display: flex;
   justify-content: center;
-}
-
-.container_menu-title  hr {
-  margin: 1rem 2rem;
 }
